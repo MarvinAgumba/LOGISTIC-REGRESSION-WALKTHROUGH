@@ -17,8 +17,14 @@ Some Image illustrations:
 
 ![image](https://github.com/MarvinAgumba/LOGISTIC-REGRESSION-WALKTHROUGH-/assets/122484885/b82aa4cc-0cb0-431e-91a2-5e06458f67c4)
 
+
+
 ![image](https://github.com/MarvinAgumba/LOGISTIC-REGRESSION-WALKTHROUGH-/assets/122484885/ab11f1c8-3476-456f-893c-e21823312e33)
 
+
+
 ![image](https://github.com/MarvinAgumba/LOGISTIC-REGRESSION-WALKTHROUGH-/assets/122484885/f6e476c3-2c41-4158-a5f1-d6fee24fda1b)
+
+
 
 ![image](https://github.com/MarvinAgumba/LOGISTIC-REGRESSION-WALKTHROUGH-/assets/122484885/35e12ec6-3c7e-45fb-bafd-dc56571f8b14)
